@@ -1,0 +1,3 @@
+Changed on a.txt
+Changed from updateRight
+Changed from updateLeft
