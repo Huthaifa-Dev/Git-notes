@@ -128,7 +128,7 @@ There are different objects in Git:
 - `filter-repo`: to filter the repository by a certain pattern.
 
 * `revert`: to revert the changes of a specific commit.
-> **Warning**: be careful when you revert merges, because `revert` doesn't revert the structural merge of branches, only the changes that done to the content of them in new branch.
+    > **Warning**: be careful when you revert merges, because `revert` doesn't revert the structural merge of branches, only the changes that done to the content of them in new branch.
 
 
 ## 📦 CV Models:
