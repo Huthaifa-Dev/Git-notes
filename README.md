@@ -26,10 +26,10 @@ Git is used on daily basis to move information between different repositories an
 
 ## 🧊 The Four Areas of Git 
 
-```diff
-
-@@ ⌚ 30min @@
-```
+<p align="center">
+    <!-- <img src="./assets/30 min.png" width="100"> -->
+    ⌚ ~ 30 Min
+</p>
 
 `Git project stores information in 4 seprate storage areas :`
 1. `Working` Area : This area contains current files and folders that you work on.
@@ -42,6 +42,12 @@ Git is used on daily basis to move information between different repositories an
 
 ## 👥 The Two Questions
 
+<p align="center">
+    <!-- <img src="./assets/30 min.png" width="100"> -->
+    ⌚ ~ 10 Min
+</p>
+
+
 `These two questions you ask about the command before using it:`
 1. How does this command move information across the Four Areas?
 
@@ -52,6 +58,12 @@ Git is used on daily basis to move information between different repositories an
 
 
 ## 🧰 Git Objects
+
+<p align="center">
+    <!-- <img src="./assets/30 min.png" width="100"> -->
+    ⌚ ~ 20 Min
+</p>
+
 You can access this folder by running `ls .git/`
 
 There are different objects in Git:
@@ -72,6 +84,11 @@ There are different objects in Git:
 > Just like linked list, if you delete a `branch` from the commit history, you will lose access to all the commits in the branch that doesn't have any link with other branches.
 
 ## 👮‍♂️ Git Commands
+
+<p align="center">
+    <!-- <img src="./assets/30 min.png" width="100"> -->
+    ⌚ ~ 4 Hrs
+</p>
 
 <h4 align="center">Git is a toolbox contains different tools and commands</h4>
 
@@ -140,7 +157,10 @@ There are different objects in Git:
 
 
 ## 📦 CV Models:
-
+<p align="center">
+    <!-- <img src="./assets/30 min.png" width="100"> -->
+    ⌚ ~ 30 Min
+</p>
 <h4 align="center">There are multible models for version control systems</h4>
 
 - <b>Peer to Peer model</b>: 
@@ -162,7 +182,10 @@ A pull request model is a model where one or more people are collaborating on th
 A dictator and lieutenants model is a model for large projects, where the shared repo has access only from controler users, where they have a shared repo of their own that the end users of this model can change and push changes to them.
 
 ## 🌿 Branch Models
-
+<p align="center">
+    <!-- <img src="./assets/30 min.png" width="100"> -->
+    ⌚ ~ 20 Min
+</p>
 <h4 align="center">Naming is optional but Recommended</h4>
 
 > **Note**: It's best to name branches based on their purpose.
