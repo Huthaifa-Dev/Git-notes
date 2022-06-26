@@ -22,7 +22,15 @@
 
 Git is used on daily basis to move information between different repositories and files, you can change the history of commits and fix any mistakes that you made before to produce more organized shared Git workflow.
 
-## 🧊 The Four Areas of Git
+
+
+## 🧊 The Four Areas of Git 
+
+```diff
+
+@@ ⌚ 30min @@
+```
+
 `Git project stores information in 4 seprate storage areas :`
 1. `Working` Area : This area contains current files and folders that you work on.
 
