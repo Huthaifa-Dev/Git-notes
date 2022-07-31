@@ -156,7 +156,7 @@ There are different objects in Git:
     > **Warning**: be careful when you revert merges, because `revert` doesn't revert the structural merge of branches, only the changes that done to the content of them in new branch.
 
 
-## 📦 CV Models:
+## 📦 VC Models:
 <p align="center">
     <!-- <img src="./assets/30 min.png" width="100"> -->
     ⌚ ~ 30 Min
